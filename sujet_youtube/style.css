@@ -1,0 +1,23 @@
+.active{
+	color: black;
+	font-weight: bolder;
+
+}
+
+.nav-link{
+color: black;
+}
+
+.valid-form{
+	color: grey;
+	font-weight: small;
+	
+}
+
+
+
+.jumbotron-fluid{
+margin: 20px;
+border-radius: 30px !important;
+background-color: #343a40 ; 
+}
